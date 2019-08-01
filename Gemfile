@@ -63,3 +63,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'sidekiq'
 gem 'solargraph'
+gem 'bootstrap-sass'
+gem 'devise'
+gem 'jquery-rails'
+gem "bootstrap-sass-rails", "~> 2.2.2.0"
+gem 'twitter-bootstrap-rails'
